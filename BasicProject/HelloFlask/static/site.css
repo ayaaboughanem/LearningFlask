@@ -1,0 +1,11 @@
+.message {
+    font-weight: 600;
+    color: blue;
+}
+.box1 {
+    width: 20%;
+    padding: 5px;
+    border: 10px double red;
+    background-color: lightcoral;
+    text-align: center;
+}
